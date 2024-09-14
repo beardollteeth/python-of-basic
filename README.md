@@ -1,2 +1,2 @@
 # python-of-basic
-# in jupyter notebook
+# in notebook
